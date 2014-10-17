@@ -30,6 +30,5 @@ customers.each do |c|
   i = i+1
 end
 
-## Add comments
 ## added more and more comments
 ## ADDED SCREAMING COMMENTS
